@@ -25,8 +25,6 @@ Skills: JavaScript / REACT / HTML / CSS / Tailwind CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ismailsardar)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=ismailsardar) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailsardar)](https://github.com/anuraghazra/github-readme-stats)     
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ismailsardar)](https://github.com/ryo-ma/github-profile-trophy)

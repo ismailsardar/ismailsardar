@@ -22,9 +22,3 @@ Skills: JavaScript / REACT / HTML / CSS / Tailwind CSS
 ![Profile views](https://gpvc.arturio.dev/ismailsardar)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsardar&show_icons=true&count_private=true) 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ismailsardar)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailsardar)](https://github.com/anuraghazra/github-readme-stats)     
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ismailsardar)](https://github.com/ryo-ma/github-profile-trophy)

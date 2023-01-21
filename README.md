@@ -4,7 +4,7 @@
 #### Web Developar..
 I am a wev developer. @JavaScript lover and traying to always something to learn new.
 
-Skills: JavaScript / REACT / HTML / CSS / Tailwind CSS
+Skills: JavaScript | REACT | Node.js | Express.js | MongoDB | HTML | CSS | Bootstrap | Tailwind CSS
 
 - 🔭 I’m currently working on Fiverr.. 
 - 🌱 I’m currently learning JavaScript.. 

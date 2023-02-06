@@ -1,5 +1,3 @@
-![Web Developar..](https://media.licdn.com/dms/image/D4E16AQE-Ij7DM0QDVw/profile-displaybackgroundimage-shrink_350_1400/0/1671214623828?e=1677110400&v=beta&t=fzpTPJVQ8fP4fNxu2uasQOJShJ_apfj4E2spMKNKmTo)
-
 ### Hi there 👋, I'm Ismile Sardar.
 #### Web Developar..
 I am a wev developer. @JavaScript lover and traying to always something to learn new.

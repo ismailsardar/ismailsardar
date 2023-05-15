@@ -18,20 +18,20 @@
 
 **I have developed innovative and efficient applications using a range of technologies, including React.js, Redux, Node.js, Express.js, and MongoDB. I am dedicated to staying up-to-date with the latest trends and best practices in Back-End development, and I am committed to applying my knowledge and expertise to improve your products and services.**
 
-**Major Projects:**
-**1. Inventory Management System > [Live_Link](https://inventory-management-ismile.netlify.app/)** 
-**2. Task Manager > [Live_Link](https://task-manager-ismile.netlify.app/)** 
-**3. Fitness Center App > [Live_Link](https://sardar-gym.netlify.app/)** 
+**Major Projects:**</br>
+**1. Inventory Management System > [Live_Link](https://inventory-management-ismile.netlify.app/)** </br>
+**2. Task Manager > [Live_Link](https://task-manager-ismile.netlify.app/)** </br>
+**3. Fitness Center App > [Live_Link](https://sardar-gym.netlify.app/)** </br>
 <!-- **3. Fitness Center App [Live_Link](https://inventory-management-ismile.netlify.app/)**  -->
 
-**Running Projects:**
+**Running Projects:**</br>
 **1. E-Commerce > [CLIENT](https://github.com/ismailsardar/E-commerce-react) | [SERVER](https://github.com/ismailsardar/E-commerce)**
 
-**Ongoing Research:** 
-**1. High performance & reusable JavaScript component development.**
+**Ongoing Research:** </br>
+**1. High performance & reusable JavaScript component development.**</br>
 **2. Web application optimization to reduce server load.**
 
-**Ongoing learning:**
+**Ongoing learning:**</br>
 **1. Next.js**
 
 
@@ -45,24 +45,37 @@
 
 <p align="center">
 <br/>
-<img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss%20-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin:2px;"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
+
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="margin:2px;"/>
+
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
+
+<img alt="Next" src="https://img.shields.io/badge/Next%20-%2300599C.svg?&style=for-the-badge&logo=Next%2B%2B&ogoColor=white" style="margin:2px;"/>
+
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<!-- <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white" style="margin:2px;"/> -->
+
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
+
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%2314354C.svg?&style=for-the-badge&logo=redux&logoColor=white" style="margin:2px;"/>
 
+<img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?&style=for-the-badge&logo=Express&logoColor=white" style="margin:2px;"/>
+
+<img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss%20-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin:2px;"/>
+
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
+
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
+
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
+<!-- <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white" style="margin:2px;"/> -->
 <br/>
 </p>
 
 ## 🏆 _Github Status_
 
 ![Profile views](https://gpvc.arturio.dev/ismailsardar)
+
+![GitHub metrics](https://metrics.lecoq.io/ismailsardar)
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-raj-1&theme=dark" width="48%" > -->

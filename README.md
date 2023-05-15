@@ -50,7 +50,7 @@
 
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 
-<img alt="Next" src="https://img.shields.io/badge/Next%20-%2300599C.svg?&style=for-the-badge&logo=Next%2B%2B&ogoColor=white" style="margin:2px;"/>
+<img alt="Next" src="https://img.shields.io/badge/Next.js%20-%2300599C.svg?&style=for-the-badge&logo=Next.js%2B%2B&ogoColor=white" style="margin:2px;"/>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
 
@@ -58,7 +58,7 @@
 
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%2314354C.svg?&style=for-the-badge&logo=redux&logoColor=white" style="margin:2px;"/>
 
-<img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?&style=for-the-badge&logo=Express&logoColor=white" style="margin:2px;"/>
+<img alt="Express" src="https://img.shields.io/badge/Express.js%20-%231572B6.svg?&style=for-the-badge&logo=Express.js&logoColor=white" style="margin:2px;"/>
 
 <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss%20-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin:2px;"/>
 

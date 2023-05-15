@@ -1,6 +1,7 @@
 <h1>Hi there, I am Ismile Sardar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29"> </h1>
 
-[<img src="https://github.com/ismailsardar/ismailsardar/blob/master/banner.png" />](https://github.com/ismailsardar)
+<img src="https://github.com/ismailsardar/ismailsardar/blob/master/banner.png" />
+<!-- [<img src="https://github.com/ismailsardar/ismailsardar/blob/master/banner.png" />](https://github.com/ismailsardar) -->
 
 <!-- [<img src="https://img.shields.io/badge/Youtube-white.svg?&style=for-the-badge&logo=Youtube&logoColor=red">](https://www.youtube.com/c/VishalRajput_1) -->
 
@@ -73,18 +74,17 @@
 
 ## 🏆 _Github Status_
 
-![Profile views](https://gpvc.arturio.dev/ismailsardar)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/ismailsardar) -->
 
-![GitHub metrics](https://metrics.lecoq.io/ismailsardar)
+<img  src="https://github-readme-stats.vercel.app/api?username=ismailsardar&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ismailsardar&theme=dark" width="48%" >
+<br>
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-raj-1&theme=dark" width="48%" > -->
-<!-- <br> -->
-
-<!-- <div align="center">
+<div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-raj-1&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-raj-1.Vishal-raj-1) -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ismailsardar.ismailsardar) -->
+  ![Profile views](https://gpvc.arturio.dev/ismailsardar)
 
 </div>

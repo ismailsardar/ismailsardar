@@ -13,7 +13,7 @@
 
 ## 🚀 _About me_
 
-**Experienced full stack web developer proficient in JavaScript, React.js, Redux, Node.js, Express.js, TypeScript and MongoDB. Strong problem-solving skills and a passion for Backend tech and Blockchain. Committed to creating high-quality web apps that provide a seamless user experience. Completed several projects in ReactJS, ExpressJS, and MongoDB, gaining valuable experience in web app development and UI design. Focused on delivering reliable and scalable solutions to clients in web development and design. Dedicated to providing innovative and cost-effective solutions while continuously learning and growing in the ever-evolving field of web development.**
+**Experienced full-stack web developer proficient in JavaScript, React.js, Next.js, Redux, Node.js, Express.js, TypeScript, and MongoDB. Strong problem-solving skills and a passion for Backend tech and Blockchain. Committed to creating high-quality web apps that provide a seamless user experience. Completed several projects in ReactJS, ExpressJS, and MongoDB, gaining valuable experience in web app development and UI design. Focused on delivering reliable and scalable solutions to clients in web development and design. Dedicated to providing innovative and cost-effective solutions while continuously learning and growing in the ever-evolving field of web development.**
 
 ## 💼 _Professional Experience_
 
@@ -29,11 +29,11 @@
 **1. E-Commerce > [CLIENT](https://github.com/ismailsardar/E-commerce-react) | [SERVER](https://github.com/ismailsardar/E-commerce)**
 
 **Ongoing Research:** </br>
-**1. High performance & reusable JavaScript component development.**</br>
+**1. High-performance & reusable JavaScript component development.**</br>
 **2. Web application optimization to reduce server load.**
 
 **Ongoing learning:**</br>
-**1. Next.js**
+**1. React Native **
 
 
 <!-- ## 🧑🏻‍💻 Open Source Experience
@@ -52,6 +52,8 @@
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 
 <img alt="Next" src="https://img.shields.io/badge/next.js%20-%2300599C.svg?&style=for-the-badge&logo=next.js%2B%2B&ogoColor=white" style="margin:2px;"/>
+
+<img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2300599C.svg?&style=for-the-badge&logo=next.js%2B%2B&ogoColor=white" style="margin:2px;"/>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
 
